@@ -14,7 +14,7 @@ Můj vlastní projekt digitální vizitky, kterou jsem navrhl a nakódoval jako 
 - **Vanilla JavaScript:** Lehký skript pro funkčnost tlačítek.
 
 ## 📁 O projektu
-Tento kód používám jako svou oficiální vizitku. Ukazuje mou schopnost propojit UX design s funkčním kódem a smyslem pro detail.
+Tento kód používám jako svou vizitku. Ukazuje mou schopnost propojit UX design s funkčním kódem a smyslem pro detail.
 
 ## 👤 Autor
 **Marek Dlabaja**
